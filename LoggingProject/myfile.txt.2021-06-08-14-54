@@ -1,0 +1,18 @@
+08-06-2021 INFO info logged to file  Main main
+08-06-2021 WARN username  incorrect  Main main
+08-06-2021 ERROR database url wrong  Main main
+08-06-2021 FATAL application crashed  Main main
+08-06-2021 INFO info logged to file  Main main 12
+08-06-2021 WARN username  incorrect  Main main 13
+08-06-2021 ERROR database url wrong  Main main 14
+08-06-2021 FATAL application crashed  Main main 15
+08-06-2021 INFO info logged to file  Main main line number 12
+08-06-2021 WARN username  incorrect  Main main line number 13
+08-06-2021 ERROR database url wrong  Main main line number 14
+08-06-2021 FATAL application crashed  Main main line number 15
+08-06-2021 INFO info logged to file  Main main line number 12
+08-06-2021 WARN username  incorrect  Main main line number 13
+08-06-2021 ERROR database url wrong  Main main line number 14
+08-06-2021 FATAL application crashed  Main main line number 15
+08-06-2021 INFO info logged to file  Main main line number 12
+08-06-2021 INFO info logged to file  Main main line number 12

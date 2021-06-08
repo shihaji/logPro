@@ -1,0 +1,8 @@
+08-06-2021 INFO info logged to file  Main main line number 12
+08-06-2021 WARN war logged to file  Main main line number 13
+08-06-2021 ERROR error logged to file  Main main line number 14
+08-06-2021 FATAL fatal logged to file  Main main line number 15
+08-06-2021 INFO info logged to file  Main main line number 12
+08-06-2021 WARN war logged to file  Main main line number 13
+08-06-2021 ERROR error logged to file  Main main line number 14
+08-06-2021 FATAL fatal logged to file  Main main line number 15
